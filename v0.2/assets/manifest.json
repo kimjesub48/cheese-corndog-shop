@@ -1,0 +1,2675 @@
+{
+ "version": 1,
+ "images": {
+  "album/stamp_cheese": {
+   "file": "album/stamp_cheese.webp",
+   "w": 329,
+   "h": 325,
+   "logicalScale": 0.6154,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_cheese_powder": {
+   "file": "album/stamp_cheese_powder.webp",
+   "w": 328,
+   "h": 327,
+   "logicalScale": 0.6079,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_chili": {
+   "file": "album/stamp_chili.webp",
+   "w": 330,
+   "h": 329,
+   "logicalScale": 0.6079,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_half": {
+   "file": "album/stamp_half.webp",
+   "w": 329,
+   "h": 325,
+   "logicalScale": 0.6154,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_ketchup": {
+   "file": "album/stamp_ketchup.webp",
+   "w": 326,
+   "h": 322,
+   "logicalScale": 0.6154,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_parsley_honey": {
+   "file": "album/stamp_parsley_honey.webp",
+   "w": 328,
+   "h": 329,
+   "logicalScale": 0.6079,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_potato": {
+   "file": "album/stamp_potato.webp",
+   "w": 327,
+   "h": 324,
+   "logicalScale": 0.6154,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_potato_cheese": {
+   "file": "album/stamp_potato_cheese.webp",
+   "w": 330,
+   "h": 324,
+   "logicalScale": 0.6154,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_ramen": {
+   "file": "album/stamp_ramen.webp",
+   "w": 330,
+   "h": 327,
+   "logicalScale": 0.6079,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_ricecake": {
+   "file": "album/stamp_ricecake.webp",
+   "w": 327,
+   "h": 326,
+   "logicalScale": 0.6079,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_sugar_hearts": {
+   "file": "album/stamp_sugar_hearts.webp",
+   "w": 329,
+   "h": 324,
+   "logicalScale": 0.6154,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "album/stamp_sweetpotato": {
+   "file": "album/stamp_sweetpotato.webp",
+   "w": 329,
+   "h": 327,
+   "logicalScale": 0.6079,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/counter": {
+   "file": "bg/counter.webp",
+   "w": 2389,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/counter_wide": {
+   "file": "bg/counter_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/ext_lv1": {
+   "file": "bg/ext_lv1.webp",
+   "w": 2048,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/ext_lv1_wide": {
+   "file": "bg/ext_lv1_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/ext_lv2": {
+   "file": "bg/ext_lv2.webp",
+   "w": 2389,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/ext_lv2_wide": {
+   "file": "bg/ext_lv2_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/ext_lv3": {
+   "file": "bg/ext_lv3.webp",
+   "w": 2048,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/ext_lv3_wide": {
+   "file": "bg/ext_lv3_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/kitchen_close": {
+   "file": "bg/kitchen_close.webp",
+   "w": 2389,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/kitchen_close_wide": {
+   "file": "bg/kitchen_close_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/kitchen_room": {
+   "file": "bg/kitchen_room.webp",
+   "w": 2389,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/kitchen_room_wide": {
+   "file": "bg/kitchen_room_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/station_fry": {
+   "file": "bg/station_fry.webp",
+   "w": 2048,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/station_fry_wide": {
+   "file": "bg/station_fry_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/station_sauce": {
+   "file": "bg/station_sauce.webp",
+   "w": 2389,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/station_sauce_wide": {
+   "file": "bg/station_sauce_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/table_top": {
+   "file": "bg/table_top.webp",
+   "w": 2389,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/table_top_wide": {
+   "file": "bg/table_top_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "brand/logo_en": {
+   "file": "brand/logo_en.webp",
+   "w": 1311,
+   "h": 615,
+   "logicalScale": 0.6865,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "brand/logo_ko": {
+   "file": "brand/logo_ko.webp",
+   "w": 1290,
+   "h": 454,
+   "logicalScale": 0.6977,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "chars/chef_back": {
+   "file": "chars/chef_back.webp",
+   "w": 464,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/chef_cheer": {
+   "file": "chars/chef_cheer.webp",
+   "w": 563,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/chef_idle": {
+   "file": "chars/chef_idle.webp",
+   "w": 563,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/chef_look": {
+   "file": "chars/chef_look.webp",
+   "w": 563,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/chef_oops": {
+   "file": "chars/chef_oops.webp",
+   "w": 563,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/chef_talk": {
+   "file": "chars/chef_talk.webp",
+   "w": 563,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/chef_wink": {
+   "file": "chars/chef_wink.webp",
+   "w": 563,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/chef_wow": {
+   "file": "chars/chef_wow.webp",
+   "w": 563,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari_chef_back": {
+   "file": "chars/hari_chef_back.webp",
+   "w": 578,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari_chef_cheer": {
+   "file": "chars/hari_chef_cheer.webp",
+   "w": 560,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari_chef_idle": {
+   "file": "chars/hari_chef_idle.webp",
+   "w": 560,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari_chef_look": {
+   "file": "chars/hari_chef_look.webp",
+   "w": 560,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari_chef_oops": {
+   "file": "chars/hari_chef_oops.webp",
+   "w": 560,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari_chef_talk": {
+   "file": "chars/hari_chef_talk.webp",
+   "w": 560,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari_chef_wink": {
+   "file": "chars/hari_chef_wink.webp",
+   "w": 560,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari_chef_wow": {
+   "file": "chars/hari_chef_wow.webp",
+   "w": 560,
+   "h": 644,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "decor/bag_crumbs": {
+   "file": "decor/bag_crumbs.webp",
+   "w": 285,
+   "h": 314,
+   "logicalScale": 0.7951,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "decor/bag_sugar": {
+   "file": "decor/bag_sugar.webp",
+   "w": 275,
+   "h": 292,
+   "logicalScale": 0.7951,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "decor/box_mix": {
+   "file": "decor/box_mix.webp",
+   "w": 299,
+   "h": 308,
+   "logicalScale": 0.7951,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "decor/chalkboard": {
+   "file": "decor/chalkboard.webp",
+   "w": 250,
+   "h": 265,
+   "logicalScale": 0.625,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "decor/lights": {
+   "file": "decor/lights.webp",
+   "w": 396,
+   "h": 183,
+   "logicalScale": 0.625,
+   "anchor": [
+    0.5,
+    0
+   ]
+  },
+  "decor/neon": {
+   "file": "decor/neon.webp",
+   "w": 239,
+   "h": 348,
+   "logicalScale": 0.625,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "decor/oil_jug": {
+   "file": "decor/oil_jug.webp",
+   "w": 235,
+   "h": 327,
+   "logicalScale": 0.7951,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "decor/plant": {
+   "file": "decor/plant.webp",
+   "w": 264,
+   "h": 267,
+   "logicalScale": 0.625,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "decor/plush": {
+   "file": "decor/plush.webp",
+   "w": 224,
+   "h": 352,
+   "logicalScale": 0.625,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "decor/poster": {
+   "file": "decor/poster.webp",
+   "w": 277,
+   "h": 314,
+   "logicalScale": 0.625,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "drink/combo_tray": {
+   "file": "drink/combo_tray.webp",
+   "w": 324,
+   "h": 343,
+   "logicalScale": 0.7958,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "drink/grape_soda": {
+   "file": "drink/grape_soda.webp",
+   "w": 212,
+   "h": 376,
+   "logicalScale": 0.7958,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "drink/lemonade": {
+   "file": "drink/lemonade.webp",
+   "w": 238,
+   "h": 377,
+   "logicalScale": 0.7958,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "drink/strawberry_milk": {
+   "file": "drink/strawberry_milk.webp",
+   "w": 179,
+   "h": 320,
+   "logicalScale": 0.7958,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "food/cheese": {
+   "file": "food/cheese.webp",
+   "w": 444,
+   "h": 146,
+   "logicalScale": 0.6329,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/cheese_half": {
+   "file": "food/cheese_half.webp",
+   "w": 282,
+   "h": 140,
+   "logicalScale": 0.6329,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/cheese_powder": {
+   "file": "food/cheese_powder.webp",
+   "w": 307,
+   "h": 179,
+   "logicalScale": 0.8219,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/parsley": {
+   "file": "food/parsley.webp",
+   "w": 278,
+   "h": 191,
+   "logicalScale": 0.8219,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/ramen_block": {
+   "file": "food/ramen_block.webp",
+   "w": 280,
+   "h": 261,
+   "logicalScale": 0.8219,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/ricecake": {
+   "file": "food/ricecake.webp",
+   "w": 365,
+   "h": 124,
+   "logicalScale": 0.8219,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/ricecake_half": {
+   "file": "food/ricecake_half.webp",
+   "w": 212,
+   "h": 121,
+   "logicalScale": 0.8219,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/sausage": {
+   "file": "food/sausage.webp",
+   "w": 474,
+   "h": 142,
+   "logicalScale": 0.6329,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/sausage_half": {
+   "file": "food/sausage_half.webp",
+   "w": 314,
+   "h": 144,
+   "logicalScale": 0.6329,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "food/sweetpotato": {
+   "file": "food/sweetpotato.webp",
+   "w": 303,
+   "h": 168,
+   "logicalScale": 0.8219,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fryer/fryer": {
+   "file": "fryer/fryer.webp",
+   "w": 1279,
+   "h": 1520,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fryer/fryer_front": {
+   "file": "fryer/fryer_front.webp",
+   "w": 1279,
+   "h": 1520,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fryer/oil_bubbles_1": {
+   "file": "fryer/oil_bubbles_1.webp",
+   "w": 1279,
+   "h": 1520,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fryer/oil_bubbles_2": {
+   "file": "fryer/oil_bubbles_2.webp",
+   "w": 1279,
+   "h": 1520,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fryer/oil_bubbles_3": {
+   "file": "fryer/oil_bubbles_3.webp",
+   "w": 1279,
+   "h": 1520,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fryer/oil_bubbles_4": {
+   "file": "fryer/oil_bubbles_4.webp",
+   "w": 1279,
+   "h": 1520,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fx/batter_drips": {
+   "file": "fx/batter_drips.webp",
+   "w": 163,
+   "h": 310,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0
+   ]
+  },
+  "fx/crumbs": {
+   "file": "fx/crumbs.webp",
+   "w": 263,
+   "h": 227,
+   "logicalScale": 0.6504,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/heat": {
+   "file": "fx/heat.webp",
+   "w": 216,
+   "h": 266,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fx/oil_splash": {
+   "file": "fx/oil_splash.webp",
+   "w": 290,
+   "h": 227,
+   "logicalScale": 0.6504,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/pop": {
+   "file": "fx/pop.webp",
+   "w": 215,
+   "h": 223,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/puff": {
+   "file": "fx/puff.webp",
+   "w": 239,
+   "h": 194,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/sizzle": {
+   "file": "fx/sizzle.webp",
+   "w": 267,
+   "h": 246,
+   "logicalScale": 0.6504,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/smoke_1": {
+   "file": "fx/smoke_1.webp",
+   "w": 262,
+   "h": 256,
+   "logicalScale": 0.6452,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/smoke_2": {
+   "file": "fx/smoke_2.webp",
+   "w": 193,
+   "h": 190,
+   "logicalScale": 0.6452,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/sparkle": {
+   "file": "fx/sparkle.webp",
+   "w": 262,
+   "h": 233,
+   "logicalScale": 0.6452,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/splat_ketchup": {
+   "file": "fx/splat_ketchup.webp",
+   "w": 237,
+   "h": 207,
+   "logicalScale": 0.6504,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/splat_mustard": {
+   "file": "fx/splat_mustard.webp",
+   "w": 234,
+   "h": 206,
+   "logicalScale": 0.6504,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/steam_1": {
+   "file": "fx/steam_1.webp",
+   "w": 107,
+   "h": 222,
+   "logicalScale": 0.6452,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fx/steam_2": {
+   "file": "fx/steam_2.webp",
+   "w": 186,
+   "h": 298,
+   "logicalScale": 0.6452,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fx/steam_3": {
+   "file": "fx/steam_3.webp",
+   "w": 271,
+   "h": 372,
+   "logicalScale": 0.6452,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fx/stream_ketchup": {
+   "file": "fx/stream_ketchup.webp",
+   "w": 107,
+   "h": 319,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0
+   ]
+  },
+  "fx/stream_mustard": {
+   "file": "fx/stream_mustard.webp",
+   "w": 107,
+   "h": 320,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0
+   ]
+  },
+  "fx/sugar_sparkle": {
+   "file": "fx/sugar_sparkle.webp",
+   "w": 258,
+   "h": 216,
+   "logicalScale": 0.6504,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "hotdog/battered": {
+   "file": "hotdog/battered.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_cheese": {
+   "file": "hotdog/bite_cheese.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_potato_cheese": {
+   "file": "hotdog/bite_potato_cheese.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_potato_ricecake": {
+   "file": "hotdog/bite_potato_ricecake.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_potato_sausage": {
+   "file": "hotdog/bite_potato_sausage.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_ramen_cheese": {
+   "file": "hotdog/bite_ramen_cheese.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_ramen_ricecake": {
+   "file": "hotdog/bite_ramen_ricecake.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_ramen_sausage": {
+   "file": "hotdog/bite_ramen_sausage.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_ricecake": {
+   "file": "hotdog/bite_ricecake.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_sausage": {
+   "file": "hotdog/bite_sausage.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_sweetpotato_cheese": {
+   "file": "hotdog/bite_sweetpotato_cheese.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_sweetpotato_ricecake": {
+   "file": "hotdog/bite_sweetpotato_ricecake.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/bite_sweetpotato_sausage": {
+   "file": "hotdog/bite_sweetpotato_sausage.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/crumb_burnt": {
+   "file": "hotdog/crumb_burnt.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/crumb_golden": {
+   "file": "hotdog/crumb_golden.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/crumb_light": {
+   "file": "hotdog/crumb_light.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/crumb_raw": {
+   "file": "hotdog/crumb_raw.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/crumb_sugar": {
+   "file": "hotdog/crumb_sugar.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/potato_burnt": {
+   "file": "hotdog/potato_burnt.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/potato_golden": {
+   "file": "hotdog/potato_golden.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/potato_light": {
+   "file": "hotdog/potato_light.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/potato_raw": {
+   "file": "hotdog/potato_raw.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/potato_sugar": {
+   "file": "hotdog/potato_sugar.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/ramen_burnt": {
+   "file": "hotdog/ramen_burnt.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/ramen_golden": {
+   "file": "hotdog/ramen_golden.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/ramen_light": {
+   "file": "hotdog/ramen_light.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/ramen_raw": {
+   "file": "hotdog/ramen_raw.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/ramen_sugar": {
+   "file": "hotdog/ramen_sugar.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/raw_cheese": {
+   "file": "hotdog/raw_cheese.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/raw_half": {
+   "file": "hotdog/raw_half.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/raw_ricecake": {
+   "file": "hotdog/raw_ricecake.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/raw_sausage": {
+   "file": "hotdog/raw_sausage.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/sweetpotato_burnt": {
+   "file": "hotdog/sweetpotato_burnt.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/sweetpotato_golden": {
+   "file": "hotdog/sweetpotato_golden.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/sweetpotato_light": {
+   "file": "hotdog/sweetpotato_light.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/sweetpotato_raw": {
+   "file": "hotdog/sweetpotato_raw.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hotdog/sweetpotato_sugar": {
+   "file": "hotdog/sweetpotato_sugar.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "icons/upg_decor": {
+   "file": "icons/upg_decor.webp",
+   "w": 262,
+   "h": 242,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_drinks": {
+   "file": "icons/upg_drinks.webp",
+   "w": 255,
+   "h": 256,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_fryer2": {
+   "file": "icons/upg_fryer2.webp",
+   "w": 251,
+   "h": 238,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_hearts": {
+   "file": "icons/upg_hearts.webp",
+   "w": 207,
+   "h": 250,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_holder": {
+   "file": "icons/upg_holder.webp",
+   "w": 265,
+   "h": 252,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_mustard": {
+   "file": "icons/upg_mustard.webp",
+   "w": 133,
+   "h": 256,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_potato": {
+   "file": "icons/upg_potato.webp",
+   "w": 226,
+   "h": 219,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_quick": {
+   "file": "icons/upg_quick.webp",
+   "w": 244,
+   "h": 249,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_ramen": {
+   "file": "icons/upg_ramen.webp",
+   "w": 246,
+   "h": 250,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_ricecake": {
+   "file": "icons/upg_ricecake.webp",
+   "w": 216,
+   "h": 247,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_sauces": {
+   "file": "icons/upg_sauces.webp",
+   "w": 238,
+   "h": 253,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_seat": {
+   "file": "icons/upg_seat.webp",
+   "w": 251,
+   "h": 247,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_shop_lv": {
+   "file": "icons/upg_shop_lv.webp",
+   "w": 279,
+   "h": 256,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_sugar": {
+   "file": "icons/upg_sugar.webp",
+   "w": 207,
+   "h": 251,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_sweetpotato": {
+   "file": "icons/upg_sweetpotato.webp",
+   "w": 236,
+   "h": 234,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_tipjar": {
+   "file": "icons/upg_tipjar.webp",
+   "w": 242,
+   "h": 253,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_toppings": {
+   "file": "icons/upg_toppings.webp",
+   "w": 241,
+   "h": 251,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "icons/upg_warmer": {
+   "file": "icons/upg_warmer.webp",
+   "w": 242,
+   "h": 243,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/both_zigzag": {
+   "file": "order/both_zigzag.webp",
+   "w": 161,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/cheese_powder": {
+   "file": "order/cheese_powder.webp",
+   "w": 160,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/chili_dots": {
+   "file": "order/chili_dots.webp",
+   "w": 162,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/chili_hearts": {
+   "file": "order/chili_hearts.webp",
+   "w": 158,
+   "h": 153,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/chili_loops": {
+   "file": "order/chili_loops.webp",
+   "w": 157,
+   "h": 154,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/chili_zigzag": {
+   "file": "order/chili_zigzag.webp",
+   "w": 162,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/crust_potato": {
+   "file": "order/crust_potato.webp",
+   "w": 163,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/crust_ramen": {
+   "file": "order/crust_ramen.webp",
+   "w": 163,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/crust_sweetpotato": {
+   "file": "order/crust_sweetpotato.webp",
+   "w": 163,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/drink": {
+   "file": "order/drink.webp",
+   "w": 158,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/drink_grape": {
+   "file": "order/drink_grape.webp",
+   "w": 163,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/drink_milk": {
+   "file": "order/drink_milk.webp",
+   "w": 163,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/fill_cheese": {
+   "file": "order/fill_cheese.webp",
+   "w": 158,
+   "h": 154,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/fill_half": {
+   "file": "order/fill_half.webp",
+   "w": 163,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/fill_ricecake": {
+   "file": "order/fill_ricecake.webp",
+   "w": 158,
+   "h": 153,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/fill_sausage": {
+   "file": "order/fill_sausage.webp",
+   "w": 157,
+   "h": 153,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/honey_dots": {
+   "file": "order/honey_dots.webp",
+   "w": 162,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/honey_hearts": {
+   "file": "order/honey_hearts.webp",
+   "w": 161,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/honey_loops": {
+   "file": "order/honey_loops.webp",
+   "w": 162,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/honey_zigzag": {
+   "file": "order/honey_zigzag.webp",
+   "w": 161,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/ketchup_dots": {
+   "file": "order/ketchup_dots.webp",
+   "w": 161,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/ketchup_hearts": {
+   "file": "order/ketchup_hearts.webp",
+   "w": 162,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/ketchup_loops": {
+   "file": "order/ketchup_loops.webp",
+   "w": 161,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/ketchup_zigzag": {
+   "file": "order/ketchup_zigzag.webp",
+   "w": 161,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/mustard_dots": {
+   "file": "order/mustard_dots.webp",
+   "w": 160,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/mustard_hearts": {
+   "file": "order/mustard_hearts.webp",
+   "w": 159,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/mustard_loops": {
+   "file": "order/mustard_loops.webp",
+   "w": 161,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/mustard_zigzag": {
+   "file": "order/mustard_zigzag.webp",
+   "w": 157,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/parsley": {
+   "file": "order/parsley.webp",
+   "w": 161,
+   "h": 159,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "order/sugar": {
+   "file": "order/sugar.webp",
+   "w": 161,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "result/badge_new": {
+   "file": "result/badge_new.webp",
+   "w": 330,
+   "h": 260,
+   "logicalScale": 0.6962,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "result/medal_bronze": {
+   "file": "result/medal_bronze.webp",
+   "w": 274,
+   "h": 315,
+   "logicalScale": 0.6962,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "result/medal_gold": {
+   "file": "result/medal_gold.webp",
+   "w": 276,
+   "h": 316,
+   "logicalScale": 0.6962,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "result/medal_silver": {
+   "file": "result/medal_silver.webp",
+   "w": 282,
+   "h": 314,
+   "logicalScale": 0.6962,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "result/stamp_slot": {
+   "file": "result/stamp_slot.webp",
+   "w": 262,
+   "h": 257,
+   "logicalScale": 0.6962,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "result/trophy": {
+   "file": "result/trophy.webp",
+   "w": 284,
+   "h": 316,
+   "logicalScale": 0.6962,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "sauce/bottle_chili": {
+   "file": "sauce/bottle_chili.webp",
+   "w": 234,
+   "h": 576,
+   "logicalScale": 0.5729,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/bottle_honey": {
+   "file": "sauce/bottle_honey.webp",
+   "w": 233,
+   "h": 576,
+   "logicalScale": 0.5729,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/bottle_ketchup": {
+   "file": "sauce/bottle_ketchup.webp",
+   "w": 280,
+   "h": 659,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/bottle_mustard": {
+   "file": "sauce/bottle_mustard.webp",
+   "w": 277,
+   "h": 660,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/chili_dots": {
+   "file": "sauce/chili_dots.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/chili_hearts": {
+   "file": "sauce/chili_hearts.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/chili_loops": {
+   "file": "sauce/chili_loops.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/chili_zigzag": {
+   "file": "sauce/chili_zigzag.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/honey_dots": {
+   "file": "sauce/honey_dots.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/honey_hearts": {
+   "file": "sauce/honey_hearts.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/honey_loops": {
+   "file": "sauce/honey_loops.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/honey_zigzag": {
+   "file": "sauce/honey_zigzag.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/ketchup_dots": {
+   "file": "sauce/ketchup_dots.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/ketchup_hearts": {
+   "file": "sauce/ketchup_hearts.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/ketchup_loops": {
+   "file": "sauce/ketchup_loops.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/ketchup_zigzag": {
+   "file": "sauce/ketchup_zigzag.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/mustard_dots": {
+   "file": "sauce/mustard_dots.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/mustard_hearts": {
+   "file": "sauce/mustard_hearts.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/mustard_loops": {
+   "file": "sauce/mustard_loops.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "sauce/mustard_zigzag": {
+   "file": "sauce/mustard_zigzag.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "serve/cup": {
+   "file": "serve/cup.webp",
+   "w": 270,
+   "h": 425,
+   "logicalScale": 0.7059,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "serve/holder": {
+   "file": "serve/holder.webp",
+   "w": 400,
+   "h": 388,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "serve/napkin": {
+   "file": "serve/napkin.webp",
+   "w": 289,
+   "h": 283,
+   "logicalScale": 0.7059,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "serve/plate_round": {
+   "file": "serve/plate_round.webp",
+   "w": 1280,
+   "h": 861,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "serve/tray": {
+   "file": "serve/tray.webp",
+   "w": 422,
+   "h": 185,
+   "logicalScale": 0.7059,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/bowl_batter": {
+   "file": "tools/bowl_batter.webp",
+   "w": 1520,
+   "h": 979,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/bowl_batter_front": {
+   "file": "tools/bowl_batter_front.webp",
+   "w": 1520,
+   "h": 979,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/cutting_board": {
+   "file": "tools/cutting_board.webp",
+   "w": 1995,
+   "h": 963,
+   "logicalScale": 0.5013,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/knife": {
+   "file": "tools/knife.webp",
+   "w": 920,
+   "h": 200,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/plate_oval": {
+   "file": "tools/plate_oval.webp",
+   "w": 1120,
+   "h": 699,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/skewer": {
+   "file": "tools/skewer.webp",
+   "w": 849,
+   "h": 72,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/skewer_cup": {
+   "file": "tools/skewer_cup.webp",
+   "w": 284,
+   "h": 656,
+   "logicalScale": 0.574,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/tray_crumbs": {
+   "file": "tools/tray_crumbs.webp",
+   "w": 1750,
+   "h": 896,
+   "logicalScale": 0.5714,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/tray_potato": {
+   "file": "tools/tray_potato.webp",
+   "w": 1500,
+   "h": 741,
+   "logicalScale": 0.6667,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/tray_ramen": {
+   "file": "tools/tray_ramen.webp",
+   "w": 1330,
+   "h": 652,
+   "logicalScale": 0.7519,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/tray_sugar": {
+   "file": "tools/tray_sugar.webp",
+   "w": 2000,
+   "h": 996,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/tray_sweetpotato": {
+   "file": "tools/tray_sweetpotato.webp",
+   "w": 1330,
+   "h": 665,
+   "logicalScale": 0.7519,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "tools/whisk": {
+   "file": "tools/whisk.webp",
+   "w": 241,
+   "h": 662,
+   "logicalScale": 0.574,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "topping/cheese_powder": {
+   "file": "topping/cheese_powder.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "topping/parsley": {
+   "file": "topping/parsley.webp",
+   "w": 384,
+   "h": 1024,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "topping/shaker_cheese": {
+   "file": "topping/shaker_cheese.webp",
+   "w": 237,
+   "h": 398,
+   "logicalScale": 0.5729,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "topping/shaker_parsley": {
+   "file": "topping/shaker_parsley.webp",
+   "w": 205,
+   "h": 366,
+   "logicalScale": 0.5729,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "ui/btn_back": {
+   "file": "ui/btn_back.webp",
+   "w": 289,
+   "h": 287,
+   "logicalScale": 0.5556,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_ok": {
+   "file": "ui/btn_ok.webp",
+   "w": 289,
+   "h": 288,
+   "logicalScale": 0.5556,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_pill_mint": {
+   "file": "ui/btn_pill_mint.webp",
+   "w": 331,
+   "h": 147,
+   "logicalScale": 0.9668,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_pill_red": {
+   "file": "ui/btn_pill_red.webp",
+   "w": 329,
+   "h": 147,
+   "logicalScale": 0.9668,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_pill_yellow": {
+   "file": "ui/btn_pill_yellow.webp",
+   "w": 330,
+   "h": 147,
+   "logicalScale": 0.9668,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_play": {
+   "file": "ui/btn_play.webp",
+   "w": 288,
+   "h": 287,
+   "logicalScale": 0.5556,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/coin": {
+   "file": "ui/coin.webp",
+   "w": 267,
+   "h": 266,
+   "logicalScale": 0.5369,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/fry_gauge": {
+   "file": "ui/fry_gauge.webp",
+   "w": 1271,
+   "h": 311,
+   "logicalScale": 0.598,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/fry_pointer": {
+   "file": "ui/fry_pointer.webp",
+   "w": 161,
+   "h": 134,
+   "logicalScale": 0.5369,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "ui/star": {
+   "file": "ui/star.webp",
+   "w": 258,
+   "h": 245,
+   "logicalScale": 0.5369,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/step_batter": {
+   "file": "ui/step_batter.webp",
+   "w": 296,
+   "h": 312,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/step_crumbs": {
+   "file": "ui/step_crumbs.webp",
+   "w": 321,
+   "h": 206,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/step_fry": {
+   "file": "ui/step_fry.webp",
+   "w": 302,
+   "h": 320,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/step_sauce": {
+   "file": "ui/step_sauce.webp",
+   "w": 258,
+   "h": 316,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/step_serve": {
+   "file": "ui/step_serve.webp",
+   "w": 187,
+   "h": 298,
+   "logicalScale": 0.5369,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/step_skewer": {
+   "file": "ui/step_skewer.webp",
+   "w": 271,
+   "h": 294,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/step_sugar": {
+   "file": "ui/step_sugar.webp",
+   "w": 315,
+   "h": 265,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/timer": {
+   "file": "ui/timer.webp",
+   "w": 245,
+   "h": 253,
+   "logicalScale": 0.5369,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "customers/mina_neutral": {
+   "file": "customers/mina_neutral.webp",
+   "w": 579,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/mina_happy": {
+   "file": "customers/mina_happy.webp",
+   "w": 579,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/jun_neutral": {
+   "file": "customers/jun_neutral.webp",
+   "w": 515,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/jun_happy": {
+   "file": "customers/jun_happy.webp",
+   "w": 515,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/grandma_neutral": {
+   "file": "customers/grandma_neutral.webp",
+   "w": 409,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/grandma_happy": {
+   "file": "customers/grandma_happy.webp",
+   "w": 409,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/schoolboy_neutral": {
+   "file": "customers/schoolboy_neutral.webp",
+   "w": 562,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/schoolboy_happy": {
+   "file": "customers/schoolboy_happy.webp",
+   "w": 562,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/teen_neutral": {
+   "file": "customers/teen_neutral.webp",
+   "w": 521,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/teen_happy": {
+   "file": "customers/teen_happy.webp",
+   "w": 521,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/puppy_neutral": {
+   "file": "customers/puppy_neutral.webp",
+   "w": 732,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/puppy_happy": {
+   "file": "customers/puppy_happy.webp",
+   "w": 732,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/cat_neutral": {
+   "file": "customers/cat_neutral.webp",
+   "w": 568,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/cat_happy": {
+   "file": "customers/cat_happy.webp",
+   "w": 568,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/dino_neutral": {
+   "file": "customers/dino_neutral.webp",
+   "w": 542,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "customers/dino_happy": {
+   "file": "customers/dino_happy.webp",
+   "w": 542,
+   "h": 640,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "ui/bubble_order": {
+   "file": "ui/bubble_order.webp",
+   "w": 480,
+   "h": 400,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/heart_full": {
+   "file": "ui/heart_full.webp",
+   "w": 96,
+   "h": 96,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_check": {
+   "file": "ui/icon_check.webp",
+   "w": 128,
+   "h": 128,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/hand_point": {
+   "file": "props/hand_point.webp",
+   "w": 177,
+   "h": 256,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0
+   ]
+  }
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "bg_lines_logical_y": {
+  "bg/counter": [
+   632,
+   698,
+   722,
+   915,
+   948
+  ],
+  "bg/kitchen_close": [
+   554
+  ],
+  "bg/station_fry": [
+   160,
+   177,
+   377,
+   396,
+   590
+  ],
+  "bg/station_sauce": [
+   556
+  ],
+  "bg/kitchen_room": [
+   586,
+   711,
+   730,
+   996
+  ],
+  "bg/table_top": [],
+  "bg/ext_lv1": [
+   862,
+   866,
+   980,
+   1022
+  ],
+  "bg/ext_lv2": [
+   916,
+   918,
+   994,
+   1022
+  ],
+  "bg/ext_lv3": [
+   982,
+   1022
+  ]
+ },
+ "bg_wide_logical": {
+  "bg/counter_wide": {
+   "w": 2546,
+   "h": 1080,
+   "stage_x0": -313
+  },
+  "bg/kitchen_close_wide": {
+   "w": 2546,
+   "h": 1080,
+   "stage_x0": -313
+  },
+  "bg/station_fry_wide": {
+   "w": 2520,
+   "h": 1080,
+   "stage_x0": -300
+  },
+  "bg/station_sauce_wide": {
+   "w": 2546,
+   "h": 1080,
+   "stage_x0": -313
+  },
+  "bg/kitchen_room_wide": {
+   "w": 2546,
+   "h": 1080,
+   "stage_x0": -313
+  },
+  "bg/table_top_wide": {
+   "w": 2546,
+   "h": 1080,
+   "stage_x0": -313
+  },
+  "bg/ext_lv1_wide": {
+   "w": 2520,
+   "h": 1080,
+   "stage_x0": -300
+  },
+  "bg/ext_lv2_wide": {
+   "w": 2546,
+   "h": 1080,
+   "stage_x0": -313
+  },
+  "bg/ext_lv3_wide": {
+   "w": 2520,
+   "h": 1080,
+   "stage_x0": -300
+  }
+ },
+ "hotdog_canvas": {
+  "w": 384,
+  "h": 1024,
+  "stickBottom": [
+   192.0,
+   1019
+  ],
+  "bodyBox_crumb_golden": [
+   57,
+   67,
+   336,
+   757
+  ]
+ },
+ "bowl_batter": {
+  "px_note": "sprite px of tools/bowl_batter (front layer shares the canvas)",
+  "batterBox": [
+   79,
+   162,
+   1441,
+   403
+  ],
+  "batterSurfaceY": 282,
+  "draw": "bowl_batter -> hotdog dipped at the centre -> bowl_batter_front"
+ },
+ "fryer": {
+  "px_note": "sprite px of fryer/fryer (all fryer/* share this canvas)",
+  "oilBox": [
+   152,
+   466,
+   1122,
+   760
+  ],
+  "oilSurfaceY": 613,
+  "frontRimY": 760,
+  "draw": "fryer -> oil_bubbles_n (while frying) -> hotdog (clip below oilSurfaceY) -> fryer_front"
+ }
+}
